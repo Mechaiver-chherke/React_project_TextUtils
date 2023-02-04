@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Mechaiver-chherke/React_project_TextUtils/static/css/main.abd64e84.css",
+    "main.js": "/Mechaiver-chherke/React_project_TextUtils/static/js/main.c5e39992.js",
+    "static/js/787.719ec76d.chunk.js": "/Mechaiver-chherke/React_project_TextUtils/static/js/787.719ec76d.chunk.js",
+    "index.html": "/Mechaiver-chherke/React_project_TextUtils/index.html",
+    "main.abd64e84.css.map": "/Mechaiver-chherke/React_project_TextUtils/static/css/main.abd64e84.css.map",
+    "main.c5e39992.js.map": "/Mechaiver-chherke/React_project_TextUtils/static/js/main.c5e39992.js.map",
+    "787.719ec76d.chunk.js.map": "/Mechaiver-chherke/React_project_TextUtils/static/js/787.719ec76d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.c5e39992.js"
+  ]
+}
